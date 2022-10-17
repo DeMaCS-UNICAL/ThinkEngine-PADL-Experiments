@@ -1,0 +1,59 @@
+ Il volume nell'unit… C Š OS
+ Numero di serie del volume: E4A5-836D
+
+ Directory di C:\Users\deang\AppData\Local\Temp\ThinkEngineFacts
+
+17/10/2022  21:26    <DIR>          ..
+17/10/2022  21:26           320.870 pdzy8fx9.nro.txt
+17/10/2022  21:26           320.866 qrqbtzun.6cg.txt
+17/10/2022  21:26           320.866 trys3rep.f16.txt
+17/10/2022  21:26           320.870 rpepmxki.qi5.txt
+17/10/2022  21:26           320.869 hvuxy8su.323.txt
+17/10/2022  21:26           320.870 5ne3aa74.9mu.txt
+17/10/2022  21:26           320.870 px03kfxm.b4t.txt
+17/10/2022  21:26           320.870 h3jnfxwx.rou.txt
+17/10/2022  21:26           320.867 owbbwv14.vcf.txt
+17/10/2022  21:26           320.869 cbavmb3z.q31.txt
+17/10/2022  21:26           320.869 rto20r5b.8fe.txt
+17/10/2022  21:26           320.869 vngv2g20.0qy.txt
+17/10/2022  21:26           320.868 scmu8l2w.f3o.txt
+17/10/2022  21:26           320.867 2zv8yo62.tc9.txt
+17/10/2022  21:26           320.866 y0al9e7u.qzi.txt
+17/10/2022  21:26           320.865 q1b5nm53.y6o.txt
+17/10/2022  21:26           320.866 yggabqtu.ha8.txt
+17/10/2022  21:26           320.866 db3uymtj.dxo.txt
+17/10/2022  21:26           320.865 vha2svch.m4b.txt
+17/10/2022  21:26           320.865 m5dy99w3.eqr.txt
+17/10/2022  21:26           320.864 at7xagj4.kew.txt
+17/10/2022  21:26           320.865 t0stapb3.vyj.txt
+17/10/2022  21:26           320.862 uwmdqx5l.l3j.txt
+17/10/2022  21:26           320.862 dnwdwqma.huj.txt
+17/10/2022  21:26           320.866 7m6w7djm.pxs.txt
+17/10/2022  21:26           320.865 bvale3he.rv5.txt
+17/10/2022  21:26           320.865 n2apmerr.o9u.txt
+17/10/2022  21:26           320.867 cy00xgal.n2z.txt
+17/10/2022  21:26           320.867 2e39ki2h.kl3.txt
+17/10/2022  21:26           320.866 47igph3f.u23.txt
+17/10/2022  21:26           320.866 vj7y4uc9.t56.txt
+17/10/2022  21:26           320.862 oab3ifmr.naj.txt
+17/10/2022  21:26           320.868 6h141tq4.e0s.txt
+17/10/2022  21:26           320.868 xlb4jll7.qna.txt
+17/10/2022  21:26           320.871 q1ozlixj.w5y.txt
+17/10/2022  21:26           320.871 c748ybo2.x4b.txt
+17/10/2022  21:26           320.871 ygqncmge.4hk.txt
+17/10/2022  21:26           320.740 b5mrs2si.zei.txt
+17/10/2022  21:26           320.739 j0qk7mbj.8ui.txt
+17/10/2022  21:26           320.739 b1wtyauq.cir.txt
+17/10/2022  21:26           320.738 a7c042oy.cqw.txt
+17/10/2022  21:26           320.737 s6p2zmek.egr.txt
+17/10/2022  21:26           320.737 ypez4ofi.c0d.txt
+17/10/2022  21:26           320.736 anznqnf0.73z.txt
+17/10/2022  21:26           320.741 kvc2m0sp.xtu.txt
+17/10/2022  21:26           320.741 g3bvwjt2.80j.txt
+17/10/2022  21:26           320.740 lkngnlwy.o0u.txt
+17/10/2022  21:26           320.740 2l9ono6y.oet.txt
+17/10/2022  21:26           320.740 df3ahiuf.rbq.txt
+17/10/2022  21:27                 0 shot.txt
+17/10/2022  21:27    <DIR>          .
+              50 File     15.720.947 byte
+               2 Directory  231.137.648.640 byte disponibili

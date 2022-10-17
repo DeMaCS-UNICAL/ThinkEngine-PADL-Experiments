@@ -1,0 +1,5 @@
+playerSensor(player,objectIndex(1),intPair(rotationZ(-736))).
+playerSensor(player,objectIndex(1),player(velocityY(-1471))).
+playerSensor(player,objectIndex(1),player(velocityX(1224))).
+playerSensor(player,objectIndex(1),intPair(y(4599))).
+playerSensor(player,objectIndex(1),intPair(x(3051))).

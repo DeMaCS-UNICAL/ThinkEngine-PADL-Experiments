@@ -1,0 +1,8 @@
+missileSensor(missileClone,objectIndex(89),intPair(y(5004))).
+missileSensor(missileClone,objectIndex(89),projectile(xRight(5041))).
+missileSensor(missileClone,objectIndex(89),projectile(xLeft(3041))).
+missileSensor(missileClone,objectIndex(89),projectile(increaseFactor(-67))).
+playerSensor(player,objectIndex(60),player(previousDirection("left"))).
+playerSensor(player,objectIndex(60),player(increaseFactor(16))).
+playerSensor(player,objectIndex(60),intPair(y(-13000))).
+playerSensor(player,objectIndex(60),intPair(x(2552))).

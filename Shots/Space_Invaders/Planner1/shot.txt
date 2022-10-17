@@ -1,0 +1,52 @@
+ Il volume nell'unit… C Š OS
+ Numero di serie del volume: E4A5-836D
+
+ Directory di C:\Users\deang\AppData\Local\Temp\ThinkEngineFacts
+
+17/10/2022  21:30    <DIR>          ..
+17/10/2022  21:31               532 71cph5rr.chm.txt
+17/10/2022  21:31               535 3h9dcyeo.mzm.txt
+17/10/2022  21:31               535 q974f49n.izq.txt
+17/10/2022  21:31               535 abjsegey.i36.txt
+17/10/2022  21:31               534 extqb1gz.bz8.txt
+17/10/2022  21:31               535 xa9qlpj0.iqi.txt
+17/10/2022  21:31               535 c4jt73rk.vk3.txt
+17/10/2022  21:31               537 zon559px.8wc.txt
+17/10/2022  21:31               537 dbxlj2ra.std.txt
+17/10/2022  21:31               535 bmgqs56a.l3y.txt
+17/10/2022  21:31               536 m8lu9ztv.xj4.txt
+17/10/2022  21:31               535 97vvqg15.7n1.txt
+17/10/2022  21:31               535 g6uhg0gz.jkd.txt
+17/10/2022  21:31               535 0edmqh70.ort.txt
+17/10/2022  21:31               534 uvtze8hi.050.txt
+17/10/2022  21:31               535 fwebyeqn.kd7.txt
+17/10/2022  21:31               535 z082bwl4.n65.txt
+17/10/2022  21:31               536 zx2i7ltn.sf3.txt
+17/10/2022  21:31               536 lm88i9v0.t76.txt
+17/10/2022  21:31               254 0b2b8rx0.dbo.txt
+17/10/2022  21:31               535 yayirvjd.5ri.txt
+17/10/2022  21:31               535 sszj9bsc.zot.txt
+17/10/2022  21:31               535 r82h1yxq.gsg.txt
+17/10/2022  21:31               535 f6hg8u6g.ad3.txt
+17/10/2022  21:31               536 swx9ujh5.mhh.txt
+17/10/2022  21:31               535 z9in9h9b.uha.txt
+17/10/2022  21:31               535 k5rxk4vm.apk.txt
+17/10/2022  21:31               533 wwdes9rt.xgo.txt
+17/10/2022  21:31               533 hspbm3o8.laz.txt
+17/10/2022  21:31               535 uokbc7of.i1l.txt
+17/10/2022  21:31               536 mactr6lx.3zr.txt
+17/10/2022  21:31               536 4kar0rbv.zlm.txt
+17/10/2022  21:31               537 nmiqc4wq.qia.txt
+17/10/2022  21:31               536 34tjvim5.5go.txt
+17/10/2022  21:31               536 l3wsr5xo.2sn.txt
+17/10/2022  21:31               536 4ddih03i.rae.txt
+17/10/2022  21:31               536 gei6uk6o.bp3.txt
+17/10/2022  21:32               540 5oc4w9sh.wjg.txt
+17/10/2022  21:32               540 sseeiscv.ot5.txt
+17/10/2022  21:32               539 8cmw2y47.vjw.txt
+17/10/2022  21:32               539 d72085gg.ybj.txt
+17/10/2022  21:32               538 vo01w3ef.cdb.txt
+17/10/2022  21:32    <DIR>          .
+17/10/2022  21:32                 0 shot.txt
+              43 File         22.217 byte
+               2 Directory  231.110.639.616 byte disponibili

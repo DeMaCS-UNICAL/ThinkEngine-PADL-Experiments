@@ -1,0 +1,4 @@
+playerSensor(player,objectIndex(60),player(previousDirection("right"))).
+playerSensor(player,objectIndex(60),player(increaseFactor(32))).
+playerSensor(player,objectIndex(60),intPair(y(-13000))).
+playerSensor(player,objectIndex(60),intPair(x(3612))).
