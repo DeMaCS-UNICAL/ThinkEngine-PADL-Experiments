@@ -53,7 +53,7 @@ moveOk(S) :- nextCell(S,X,Y).
 :- not moveOk(S), planStep(S).
 
 
-dead(S):-ghost(S,X,Y,_),reach(S,X,Y).
+
 
 reach(S,0,X,Y):- nextCell(S,X,Y).
 reach(0,0,X,Y):-pacman(X,Y).
@@ -66,6 +66,7 @@ pacman(S,X,Y) :- lastReached(S,X,Y).
 
 intersection(X,Y):-tile(X1,Y), tile(X,Y1), tile(X,Y), Dx=X1-X, Dx*Dx=1, Dy=Y1-Y, Dy*Dy=1. 
 
+dead(S):-ghost(S,X,Y,_),reach(S,X,Y).
 distancePacmanNextGhost(S,D, G) :- nextCell(S,Xp, Yp), ghost(S,Xg, Yg, G), min_distance(Xp,Yp,Xg,Yg,D).
 
 %notMinDistancePacmanNextGhost(S,X) :- distancePacmanNextGhost(S,X,_), distancePacmanNextGhost(S,Y,_), distance(X), X>Y.
@@ -88,12 +89,8 @@ adjacent(X1,Y1,X2,Y2) :- tile(X1,Y1), tile(X2,Y2), step(DX,DY), X2 = X1 + DX, Y2
 adjacent(X1,Y1,X2,Y2) :- tile(X1,Y1), tile(X2,Y2), step(DX,DY), X2 = X1 - DX, Y2 = Y1 - DY.
 step(0,1).
 step(1,0).
-
 distance(X1,Y1,X2,Y2,1) :- tile(X1,Y1), adjacent(X1,Y1,X2,Y2).
 distance(X1,Y1,X3,Y3,Dp1) :- distance(X1,Y1,X2,Y2,D), adjacent(X2,Y2,X3,Y3), D = Dp1 - 1, distance(Dp1).
-
-%min_distance(X1,Y1,X2,Y2,MD) :- #min{D : distance(X1,Y1,X2,Y2,D)} = MD, tile(X1,Y1), tile(X2,Y2), distance(MD).
-
 nonMinDistance(X1,Y1,X2,Y2,D1) :- distance(X1,Y1,X2,Y2,D1), distance(X1,Y1,X2,Y2,D2), D1>D2.
 min_distance(X1,Y1,X2,Y2,MD):- not nonMinDistance(X1,Y1,X2,Y2,MD), distance(X1,Y1,X2,Y2,MD).
 

@@ -1,5 +1,0 @@
-playerSensor(player,objectIndex(1),intPair(rotationZ(749))).
-playerSensor(player,objectIndex(1),player(velocityY(-735))).
-playerSensor(player,objectIndex(1),player(velocityX(-671))).
-playerSensor(player,objectIndex(1),intPair(y(4213))).
-playerSensor(player,objectIndex(1),intPair(x(2436))).
